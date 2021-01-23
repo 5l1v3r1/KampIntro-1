@@ -4,7 +4,7 @@ using System.Text;
 
 namespace OOP3
 {
-    class DateBaseLoggerService : ILoggerService
+    class DatABaseLoggerService : ILoggerService
     {
         public void Log()
         {

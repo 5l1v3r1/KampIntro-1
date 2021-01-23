@@ -18,8 +18,8 @@ namespace OOP3
             //basvuruManager.BasvuruYap(ihtiyacKrediManager);
             //basvuruManager.BasvuruYap(tasitKrediManager);
 
-            ILoggerService fileLoggerService = new FileBaseLoggerService();
-            ILoggerService dataBaseLoggerService = new DateBaseLoggerService();
+            ILoggerService fileLoggerService = new FileLoggerService();
+            ILoggerService dataBaseLoggerService = new DatABaseLoggerService();
 
             basvuruManager.BasvuruYap(konutKrediManager, new List<ILoggerService> { fileLoggerService, dataBaseLoggerService });
             basvuruManager.BasvuruYap(tasitKrediManager, new List<ILoggerService> { fileLoggerService, dataBaseLoggerService });
