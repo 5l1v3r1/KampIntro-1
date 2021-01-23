@@ -23,6 +23,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyDictionary", "MyDictionar
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOP2", "OOP2\OOP2.csproj", "{BBF724AB-80C3-4394-AC5C-A34F9FE0864A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOP3", "OOP3\OOP3.csproj", "{21FB7884-097F-4094-A15B-F07BF2BEEC20}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -69,6 +71,10 @@ Global
 		{BBF724AB-80C3-4394-AC5C-A34F9FE0864A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BBF724AB-80C3-4394-AC5C-A34F9FE0864A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BBF724AB-80C3-4394-AC5C-A34F9FE0864A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{21FB7884-097F-4094-A15B-F07BF2BEEC20}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{21FB7884-097F-4094-A15B-F07BF2BEEC20}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{21FB7884-097F-4094-A15B-F07BF2BEEC20}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{21FB7884-097F-4094-A15B-F07BF2BEEC20}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
