@@ -4,6 +4,7 @@ using System.Text;
 
 namespace OOP3
 {
+    // Birbirinin ALTARNATIFI işlemlerde kullanılır
     interface IKrediManager
     {
         void Hesapla();
